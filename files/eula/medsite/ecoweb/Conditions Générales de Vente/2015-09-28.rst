@@ -1,0 +1,507 @@
+Conditions générales de vente
+=============================
+
+Les présentes Conditions Générales de Vente déterminent les règles
+d’intervention de la Plateforme Medsite.fr dans le cadre des prestations
+qu’elle propose aux médecins.
+
+Ces Conditions Générales de Vente peuvent être modifiées à tout moment, la
+dernière version en vigueur étant celle accessible en ligne par le médecin lors
+de sa connexion sur le site internet Medsite.fr.
+
+
+Article 1. Définitions
+----------------------
+
+Les termes définis ci-après, qu’ils soient au singulier ou au pluriel, ont la signification suivante :
+
+Médecins(s)
+  Signifie un professionnel de santé tel qu’entendu au sens des dispositions de
+  l’article L. 4111-1 et suivants du Code de la santé publique, abonné et
+  responsable en tant qu’éditeur du contenu du Site Internet hébergé par la
+  Plateforme Medsite.
+
+Code d’Accès
+  Signifie l’association « identifiant / mot de passe » utilisée par le Médecin
+  pour s’authentifier sur son compte personnel qui lui est dédié sur la
+  Plateforme Medsite.
+
+Conditions Générales de Vente (CGV)
+  Signifie les présentes Conditions Générales de Vente complétées par les
+  Conditions Particulières ; elles constituent ensemble le socle unique des
+  négociations commerciales conformément aux dispositions de la loi n°2014-344
+  du 17 mars 2014 relative à la consommation. En cas de contradiction, les
+  Conditions Générales de Vente prévalent sur les Conditions Particulières.
+
+Données
+  Signifie les informations renseignées par le Médecin.
+
+Hébergement
+  Signifie les ressources techniques et moyens matériels de la Plateforme
+  Medsite mis à la disposition du Médecin pour la gestion, maintenance et
+  hébergement de son Site Internet.
+
+Plateforme Medsite
+  Signifie la plate-forme informatique et serveur de la société KOZEA SARL,
+  dédiés à la création, la conception, la mise en ligne et l’Hébergement de
+  Site(s) Internet de Médecins.
+
+Service(s)
+  Signifie l’ensemble des services, prestations et options d’abonnement
+  proposées (EcoWeb et FlexiWeb) par la Plateforme Medsite au Médecin, tel que
+  détaillé dans les Conditions Particulières faisant partie intégrante des
+  présentes Conditions Générales de Vente.
+
+Site(s) Internet
+  Signifie le site internet du Médecin hébergé par la Plateforme Medsite.
+
+
+Article 2. Objet
+----------------
+
+1. La Plateforme Medsite est une Plateforme dédiée à la création, la
+   conception, la mise en ligne et l’Hébergement de Sites internet de Médecins
+   et propose différentes options d’abonnement en vue de la configuration de
+   l'espace professionnel de la Plateforme Medsite qui leur est réservé.
+
+2. Les présentes Conditions Générales de Vente ont pour objet de définir les
+   conditions techniques et financières dans lesquelles la Plateforme Medsite
+   s'engage à réaliser, en fonction de l’option retenue par le Médecin, une
+   prestation de création, de conception, de mise en ligne et d’Hébergement de
+   Sites Internet.
+
+3. Le Médecin déclare avoir vérifié l'adéquation du Service qu’il a retenu à
+   ses besoins et avoir reçu de la Plateforme Medsite toutes les informations
+   et conseils qui lui étaient nécessaires pour souscrire aux présentes
+   Conditions Générales de Vente.
+
+
+Article 3. Description des intervenants
+---------------------------------------
+
+1. La Plateforme Medsite intervient en tant que créateur, concepteur, avec la
+   mise en ligne et l’Hébergement de Site(s) Internet de Médecins, selon
+   l’option retenue par ces derniers, et ne saurait en aucun cas être considéré
+   comme l’éditeur du contenu du Site Internet.
+
+2. Le Médecin reste par conséquent, au sens de la loi n°2004-575 du 21 juin
+   2004 pour la confiance dans l’économie numérique, éditeur exclusif du Site
+   Internet et responsable à ce titre de tous les éléments incorporels de son
+   contenu.
+
+
+Article 4. Modalites d’adhésion
+-------------------------------
+
+1. La Plateforme Medsite procède à la création, conception, mise en ligne et à
+   l'Hébergement du Site Internet dès son inscription par le biais du
+   formulaire soit remis par la Plateforme Medsite lors d’un rendez-vous
+   commercial, soit saisi en ligne par le Médecin, ou soit suite à l'envoi à la
+   Plateforme Medsite par courrier et/ou par fax du bordereau d'inscription que
+   le Médecin aura préalablement téléchargé sur la Plateforme Medsite, ou reçu
+   par email à sa demande.
+
+2. La mise en ligne du Site Internet aura lieu dans un délai de sept (7) jours
+   dés réception du bordereau d'inscription valant bon de commande.
+
+3. Au moment de la mise en ligne du Site Internet, le Médecin reçoit par
+   email le Code d’Accès lui permettant d'accéder à l’interface de gestion
+   et d’administration du Site Internet.
+
+4. La date de mise en ligne et l'envoi concomitant du Code d’Accès au Médecin
+   déterminent la date initiale à laquelle le contrat est formé.
+
+
+Article 5. Support technique et accès aux sites Internet
+--------------------------------------------------------
+
+1. La Plateforme Medsite s’engage à mettre à la disposition du Médecin une
+   assistance technique par email à l’adresse : support@medsite.fr et par
+   téléphone aux numéros de téléphone renseignés sur le site du
+   http://www.medsite.fr.
+
+2. La Plateforme Medsite s'engage à tout mettre en œuvre pour assurer la
+   permanence, la continuité et la qualité des services proposés, et souscrit à
+   ce titre une obligation de moyens.
+
+3. La Plateforme Medsite s'efforcera d'offrir un accès Internet 24 heures sur
+   24, 7 jours sur 7, sans qu'il puisse le garantir pour autant totalement,
+   compte tenu de la nature du réseau internet.
+
+4. Le Médecin reconnaît en conséquence que des fluctuations de la bande
+   passante et les aléas émanant du fournisseur d'accès à internet sont des
+   éléments pouvant entraîner une discontinuité dans l'accès à la Plateforme
+   Medsite, indépendante de la volonté de la Plateforme Medsite et extérieure à
+   ses moyens techniques.
+
+5. Dans l'hypothèse où, en raison d'un nombre de connexions ou de requêtes
+   excédant les prévisions du Médecin, les capacités offertes par la Plateforme
+   Medsite deviendraient insuffisantes, les parties se concerteront afin
+   d'envisager des modifications techniques et financières aux conditions
+   d’Hébergement du Site Internet par la Plateforme Medsite.
+
+
+Article 6. Les services
+-----------------------
+
+6.1 Tarifs
+..........
+
+Le prix de l’abonnement aux Services, fournis par la Plateforme Medsite, dépend
+du Service retenu par le Médecin défini aux Conditions Particulières.
+
+Les tarifs en vigueur sont disponibles en consultation en ligne sur le site
+https://www.medsite.fr et sur demande auprès de la Plateforme Medsite.
+
+Les abonnements et prestations proposés s'entendent hors taxes et sont payables
+en euros, lors de la mise en ligne du Site Internet avec le Service retenu par
+le Médecin.
+
+La Plateforme Medsite se réserve la faculté de modifier ses prix à tout moment,
+sous réserve d'en informer le Médecin, soit par courrier électronique, soit par
+un avertissement en ligne en mettant directement l'information sur le panneau
+d'administration du site du Médecin dans la rubrique « Mon contrat », ou encore
+par un avertissement en ligne sur le site https://www.medsite.fr, trente (30)
+jours ouvrés à l'avance si les nouveaux tarifs sont moins favorables. Suite à
+cette information le Médecin sera libre de résilier le contrat dans les
+conditions précisées à l'Article 11. A défaut, le Médecin sera réputé avoir
+accepté les nouveaux tarifs. Les modifications de tarifs seront applicables à
+tous les contrats en cours. La Plateforme Medsite se réserve le droit de
+répercuter, sans délai, toute nouvelle taxe réglementaire, administrative ou
+légale ou toute augmentation de taux des taxes existantes.
+
+6.2 Modalités de paiements
+..........................
+
+Les abonnements sont exclusivement réglés par prélèvement automatique et
+d’avance, terme à échoir. En remplissant le bordereau de commande, le Médecin
+remplit également l'autorisation de prélèvement automatique. Les abonnements
+sont garantis pour la période concernée. En cas de changement d'option au cours
+de la période d'abonnement entraînant une augmentation de celui-ci, un nouvel
+abonnement annuel sera prélevé au Médecin, déduction faite de l'ancien
+abonnement au prorata de la période restant à courir.
+
+6.3 Renouvellement
+..................
+
+Le renouvellement de l’abonnement se fera automatiquement à la date
+anniversaire du contrat sauf dénonciation par lettre recommandée avec accusé de
+réception, au moins trente (30) jours ouvrés avant la date d’échéance. En cas
+de renouvellement, les taxes et le tarif applicables seront ceux en vigueur au
+jour du renouvellement.
+
+À défaut de l'entier paiement du prix du renouvellement fixé dans le tarif, la
+Plateforme Medsite ne pourra effectuer le renouvellement demandé par le Médecin
+qui sera informé par email de la fermeture du Service. Le Client recevra un
+autre email de notification pour l’informer de l’effacement de l’Hébergement
+pour défaut de paiement. Le Médecin prendra toutes ses dispositions pour
+sauvegarder ses Données avant la fermeture de son compte.
+
+6.4 Conséquences d’un défaut de paiement
+........................................
+
+Tout impayé (rejet du prélèvement automatique) sera considéré comme un défaut
+de paiement. De convention expresse et sauf report sollicité à temps et accordé
+préalablement par écrit par la Plateforme Medsite, le défaut total ou partiel
+de paiement à l'échéance de toute somme due, entraînera de plein droit, sans
+mise en demeure préalable :
+
+- l'exigibilité immédiate de toutes les sommes restant dues par le Médecin,
+  quel que soit le mode de règlement prévu
+- la possibilité de suspendre ou de résilier l’exécution de toute commande en
+  cours jusqu’au paiement complet des sommes dues
+- l'application d'un intérêt de retard au taux de 12% sur les sommes restant
+  dues sans que celui-ci ne puisse être inférieur à trois (3) fois le taux de
+  l’intérêt légal, conformément aux dispositions de l’article L. 441-6 nouveau
+  du Code de commerce
+- des frais de recouvrement, conformément à l'article D 441-5 du Code de
+  commerce, dont l’indemnité est fixée à 40 € par le décret n°2012-1115 du 2
+  octobre 2012
+- la suspension de toutes les prestations en cours, quelle que soit leur
+  nature, sans préjudice pour la Plateforme Medsite d'user de la faculté de
+  résiliation immédiate des présentes Conditions Générales de Vente.
+
+Tout désaccord concernant la facturation et la nature des Services devra être
+exprimé par courrier électronique à l'adresse support@Pharminfo.fr dans un
+délai maximum de trente jours (30) ouvrés après l’émission du formulaire
+d’inscription.
+
+
+Article 7. Nom de domaine - propriété intellectuelle
+----------------------------------------------------
+
+7.1 Nom de Domaine
+..................
+
+Au moment de la mise en ligne du Site Internet, la Plateforme Medsite s’engage
+à affecter au Médecin un sous domaine du nom de domaine « medsite.fr ». Ainsi
+le site mis en ligne est accessible à l’adresse :
+https://sous-domaine.medsite.fr
+
+Dans le cas où le Médecin souhaite utiliser un nom de domaine différent de
+celui affecté au Site Internet lors de sa mise en ligne, il peut souscrire à sa
+charge un nom de domaine auprès d’un fournisseur habilité et effectuer lui-même
+le routage vers son site medsite.fr.  Le nom domaine qu’il aura choisi ne peut
+en aucun cas être un nom de domaine susceptible de valoriser son activité
+médicale professionnelle.
+
+En aucun cas, la Plateforme Medsite ne pourra être tenue pour responsable du
+dysfonctionnement éventuel de cette opération de routage.
+
+Le Médecin est seul responsable du choix du nom de domaine et vérifiera que ce
+dernier ne porte pas atteinte aux droits d'un tiers. En conséquence, le nom de
+domaine enregistré par le Médecin est sous sa garde exclusive et il lui
+appartient de s'assurer de son renouvellement auprès du bureau d’enregistrement
+de noms de domaine en temps utile.
+
+7.2 Propriété Intellectuelle
+............................
+
+Le contenu du Site Internet et de la Plateforme Medsite sont protégés par la
+loi et notamment les dispositions du Code de la propriété intellectuelle.
+
+La Plateforme Medsite demeure propriétaire des éléments incorporels créés à son
+initiative pour le compte du Médecin. Toutes reproductions, sans autorisation
+préalable écrite de la Plateforme Medsite, s’agissant de ses propres créations
+intellectuelles couvertes par le droit d’auteur au sens de l'article L. 112-2
+du Code de la propriété intellectuelle, constituerait une contrefaçon
+sanctionnée par les articles L. 335-2 et suivants du même code.
+
+Dans l’hypothèse d’une création d’une œuvre de l’esprit, d’un logo, d’une
+marque à l’initiative du Médecin ou réalisée par la Plateforme Medsite sur
+demande expresse du Médecin, la Plateforme Medsite reconnaît la propriété
+intellectuelle du Médecin sur les créations demandées et réalisés par la
+Plateforme Medsite dans le cadre du Service retenu.
+
+
+Article 8. Données à caractère personnel
+----------------------------------------
+
+8.1 Déclaration CNIL
+....................
+
+Conformément à la loi n° 78-17 du 6 janvier 1978 relative à l’Informatique, aux
+Fichiers et aux Libertés, le traitement de données à caractère personnel du
+Médecin a fait l’objet d’une déclaration auprès de la CNIL.
+
+8.2 Droit d’accès, de modification, de rectification et de suppression des Données
+..................................................................................
+
+Conformément à l’article 39 de la loi de 6 janvier 1978, le Médecin dispose
+d’un droit d’accès, de modification, de rectification et de suppression des
+Données le concernant. Ce droit peut être exercé auprès de Medsite.fr par voie
+postale à l’adresse suivante : 107 boulevard de Stalingrad, 69100 Villeurbanne, 
+France ou par email en écrivant à contact@medsite.fr.
+
+8.3 Hébergement de données de santé
+...................................
+
+Les données de santé sont hébergées par un hébergeur de données de santé
+conformément aux dispositions des articles L.1111-8 et R.1111-9 du Code de la
+santé publique.
+
+
+Article 9. Responsabilité de la plateforme Medsite
+--------------------------------------------------
+
+1. La Plateforme Medsite ne saurait être tenue responsable, tant civilement que
+   pénalement, du contenu du Site Internet dont seul le Médecin est responsable
+   en tant qu’éditeur conformément aux dispositions de la loi n°2004-575 du 21
+   juin 2004 sur la confiance numérique.
+
+2. La Plateforme Medsite ne saurait également garantir que la Plateforme
+   Medsite soit disponible d’accès sans aucune interruption compte tenu de
+   l’accès au réseau internet.
+
+3. La Plateforme Medsite n’intervient qu’en tant que prestataire pour le
+   Médecin et ne pourrait être tenue responsable des activités du Médecin sur
+   le Site Internet déroulées à partir de son propre compte, ou du non respect
+   par ce dernier de l’ensemble des lois, réglementations nationales et
+   internationales applicables aux activités du Site Internet.
+
+
+Article 10. Responsabilité du médecin
+-------------------------------------
+
+1. Le Médecin assure la Plateforme Medsite qu'il est propriétaire ou titulaire
+   des droits de propriété intellectuelle concernant les informations qu'il met
+   lui-même sur le Site Internet et qu’il détient à ce titre les droits de
+   reproduction, de représentation et de diffusion de ces informations pour le
+   Site Internet.
+
+2. Le Médecin assume toutes les conséquences, directes et/ou indirectes, de son
+   activité sur le Site Internet et demeure pleinement responsable du contenu
+   des informations transmises, diffusées ou collectées, de leur exploitation
+   et de leur mise à jour, ainsi que de tous fichiers, notamment d'adresses sur
+   le Site Internet.
+
+3. Le non-respect par le Médecin des points visés ci-dessus, notamment toute
+   activité spécifiquement interdite à partir de la Plateforme Medsite et/ou
+   tout contenu diffusé et interdit sur la Plateforme Medsite et/ou susceptible
+   d'engendrer une responsabilité civile et/ou pénale et/ou susceptible de
+   porter atteinte aux droits d'un tiers entraînera le droit pour la Plateforme
+   Medsite d'interrompre sans délai et sans mise en demeure préalable le
+   Service, sans préjudice de tous dommages et intérêts éventuels auxquels la
+   Plateforme Medsite pourrait prétendre.
+
+4. Le Médecin demeure responsable du Code d’Accès qui lui a été attribué par la
+   Plateforme Medsite. Toute utilisation du Site Internet par le Code d’Accès
+   relève par conséquent de la responsabilité exclusive du Médecin.
+
+5. Le Médecin supportera seul les conséquences du défaut de fonctionnement de
+   la Plateforme Medsite consécutif à une utilisation d’un membre de son
+   personnel ou par toute personne auquel le Médecin aura fourni son Code
+   d’Accès, non conforme aux instructions de fonctionnement qui lui auront été
+   fournies par la Plateforme Medsite. De même, le Médecin supporte seul les
+   conséquences de la perte de son Code d’Accès.
+
+6. Le Médecin s'engage à informer la Plateforme Medsite de toute modification
+   concernant sa situation (notamment changement d'adresse électronique, de
+   domiciliation bancaire) au plus tard dans les trente (30) jours ouvrés du
+   changement, sauf pour le changement d'adresse de messagerie, dont la
+   modification devra être transmise dans les quarante huit (48) heures à
+   compter de son utilisation. A défaut de respect de ce délai, ou à défaut
+   d'informer la Plateforme Medsite de ce changement, cette dernière sera
+   dégagée de toute responsabilité en cas de fermeture du Service.
+
+
+Article 11. Prise d’effet – durée - résiliation
+-----------------------------------------------
+
+11.1 Prise d’effet
+..................
+
+Les présentes Conditions Générales de Vente entrent en vigueur à compter de la
+date de réception par le Médecin de l'email de confirmation de la mise en
+ligne du Site Internet et de l’attribution de son Code d’Accès lui permettant
+d'accéder à son espace réservé.
+
+11.2 Durée
+..........
+
+Elles demeurent en vigueur pour une durée de douze (12) mois calendaires et
+seront, à l’issue de cette période initiale de douze (12) mois, reconduites
+tacitement par périodes de même durée de douze (12) mois sauf dénonciation par
+lettre recommandée avec avis de réception adressées au plus tard trente (30)
+jours ouvrés avant la fin de la période contractuelle en cours.
+
+En cas de changement du Service au cours d'une période d'abonnement, la date de
+renouvellement pourra se trouver modifiée et un nouveau contrat sera conclu
+pour une durée de douze (12) mois qui démarrera à partir de la date du
+changement du Service.
+
+11.3 Résiliation
+................
+
+a. Résiliation pour faute
+
+  - La Plateforme Medsite se réserve le droit de résilier sans préavis, ni
+    indemnité, les présentes Conditions Générales de Vente en cas de faute du
+    Médecin, et ce sans préjudice de tous dommages et intérêts éventuels qui
+    pourraient lui être réclamés en raison du préjudice subi par la Plateforme
+    Medsite.
+  - La Plateforme Medsite se réserve également la possibilité de restreindre,
+    limiter ou suspendre le Service ou l’Hébergement, sans préavis ni
+    indemnité, s’il apparaît que le Médecin utilise le Service qui lui est
+    fourni pour une activité qui n‘est plus liée à son activité
+    professionnelle, ou qui ne serait pas conforme au Code de déontologie
+    édictée par le Conseil National de l’Ordre des Médecins.
+
+b. Résiliation pour propres motifs
+
+  - Le Médecin se réserve la possibilité de résilier de son propre gré, à tout
+    moment, les présentes Conditions Générales de Vente, sous réserve de
+    l’envoi d’une lettre recommandée avec avis de réception adressée à la
+    Plateforme Medsite moyennant le respect d’un préavis de quinze (15) jours
+    ouvrés avant la date effective de résiliation souhaitée. Le Médecin ne
+    pourra prétendre dans cette hypothèse au remboursement des sommes déjà
+    versées.
+  - Le Médecin reconnait et accepte que la Plateforme Medsite pourra également
+    être amené à effectuer une restriction, limitation ou suspension du Service
+    ou de l’Hébergement si la Plateforme Medsite recçoit un avis motivé d’une
+    autorité de santé, administrative, arbitrale ou judiciaire dans le respect
+    des règlements et de la législation applicable.
+
+
+Article 12. Publicité et promotion
+----------------------------------
+
+La Plateforme Medsite se réserve le droit à l'occasion notamment de
+manifestations, de colloques, de présentations publiques de se prévaloir des
+Services proposés au(x) Médecin(s) et ce sur tout support notamment
+informatique, papier, plaquettes d’informations et/ou publicitaires.
+
+
+Article 13. Loi applicable et attribution de juridiction
+--------------------------------------------------------
+
+1. La loi Française est applicable aux présentes Conditions Générales de Vente.
+
+2. Tout différend fera l’objet préalablement à la saisine d’un tribunal d’une
+   tentative de conciliation ou de médiation selon les dispositions applicables
+   depuis le 1er avril 2015 du décret n° 2015-282 du 11 mars 2015 relatif à la
+   résolution amiable des différends. Faute d’accord amiable dans les quarante
+   cinq (45) jours ouvrés à compter du différend constaté, ce dernier sera
+   définitivement soumis aux tribunaux compétents de Lyon, nonobstant la
+   pluralité de défendeurs.
+
+3. La Plateforme Medsite assure, conformément aux dispositions de la directive
+   2013/11/UE du Parlement européen et du Conseil du 21 mai 2013 relative au
+   règlement extrajudiciaire des litiges de consommation (RELC), transposée par
+   ordonnance n°2015-1033 du 20 août 2015, un service gratuit de règlement
+   extrajudiciaire des litiges.
+
+
+Conditions particulières d’utilisation
+--------------------------------------
+
+La Plateforme Medsite propose un service à options (« Service »), selon
+deux (2) formules différentes aux choix du Médecin :
+
+Service EcoWeb
+..............
+
+Correspond à un service de base payant à dix euros, hors taxes, (10€ HT) par
+mois, qui comprend la création, la mise en ligne et l’hébergement du Site
+Internet du Médecin selon le modèle graphique choisi par ce dernier.
+
+Les fonctionnalités de l'option EcoWeb sont consultables sur le site
+www.medsite.fr.
+
+L'option EcoWeb est une formule qui comprend :
+
+- la présentation optimale du cabinet
+- les horaires de consultation
+- l’équipe
+- le plan d’accès
+- les informations médicales
+- l’actualité santé
+- l’actualité du cabinet
+- les alertes sanitaires
+- l’épidémiologie
+- le service de garde
+- le service carnet de vaccination
+
+Service FlexiWeb
+................
+
+Correspond à un service payant à quarante euros, hors taxes, (40€ HT) par mois,
+qui comprend :
+
+- la présentation optimale du cabinet
+- les horaires de consultation
+- l’équipe
+- le plan d’accès
+- les informations médicales
+- l’actualité santé
+- l’actualité du cabinet
+- les alertes sanitaires
+- l’épidémiologie
+- le service de garde
+- le service carnet de vaccination
+- l’agenda en ligne
+- le rappel par SMS
+
+Pour connaître les différentes options disponibles, le Médecin peut consulter
+le site: https://www.medsite.fr ou contacter le service commercial à
+l'adresse : contact@medsite.fr.

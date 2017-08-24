@@ -1,0 +1,25 @@
+Nouvelles fonctionnalités
+=========================
+
+- Ajout de statistiques de vente dans le panneau d’administration
+- Amélioration de la gestion des modes de livraison
+- Envoi des informations dans les messages lors des nouvelles commandes
+- Ajout de nouvelles catégories
+- Ajout d’une signature personnalisable pour l’envoi de messages
+- Ajout d’un panel de promotions en cours
+- Affichage de la pièce jointe dans la page d’édition des ordonnances
+- Affichage d’un lien pour écrire au client dans les pages d’ordonnances
+- Amélioration du bas de page sur les sites e-commerce
+- Ajout d’un lien vers le dossier CNIL dans la page « Qui sommes-nous ? »
+- Mise-à-jour du calendrier vaccinal
+
+
+Corrections
+===========
+
+- Suppression des thèmes personnalisés dans le widget d’actualités
+- Correction de la courbe IMC
+- Correction des thèmes e-commerce pour téléphones et tablettes
+- Coupure des mots trop longs dans les icônes de catégories
+- Non création de doublons lors de l’ajout de produits
+- Déplacement des icônes de garantie des pharmacies

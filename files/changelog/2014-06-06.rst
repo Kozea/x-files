@@ -1,0 +1,23 @@
+Nouvelles fonctionnalités
+=========================
+
+- Nouvelle version du carrousel
+- Possibilité d’ajouter un produit sans prix au catalogue
+- Ajout des informations de la pharmacie dans les emails envoyés
+- Pagination pour les listes de produits
+- Bandeau « nouveauté » pour les produits récemment ajoutés
+- Meilleure flexibilité pour la création de modes de livraison
+- Présentation plus claire de la validation des conditions d’utilisation pour les patients
+- Ajout de la possibilité de classer les produits par marque
+
+
+Corrections
+===========
+
+- Avertissement lors du changement d’un thème personnalisé
+- Affichage amélioré des images d’un produit
+- Ouverture des sous-catégories de produits lors d’un clic sur le triangle uniquement
+- Correction des liens ajoutés dans l’éditeur riche
+- Affichage des substances actives lors de l’ajout d’un produit
+- Meilleur outil d’organisation des catégories
+- Affichage amélioré pour les présentations de produits

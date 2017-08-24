@@ -1,0 +1,26 @@
+Nouvelles fonctionnalités
+=========================
+
+- Liste des nouveautés apportées au site Internet, avec flux RSS
+- Catégories sur les actualités d’officine
+- Ajout de nouvelles catégories pour les produits
+
+Corrections
+===========
+
+- Amélioration du support d’Internet Explorer 8
+- Diminution de la taille des titres des widgets
+- Correction de la couleur du texte dans les cartes
+- Support du tri décroissant sur les tableaux
+- Adaptation des thèmes e-commerce pour l’impression des fiches conseil
+- Refus des prix négatifs pour les produits
+- Alignement correct des macarons e-commerce
+- Support du champ de recherche sur la page de spécialités
+- Amélioration de la validité HTML5 des pages
+- Limitation de la taille des fichiers envoyés
+- Correction de la page de réponse aux messages du pharmacien
+- Ajout du prix original sur les pages de produits avec promotion
+- Positionnement correct des icônes de widgets sur la version mobile
+- Taille des macarons plus petite sur Internet Explorer 11
+- Prise en compte de tous les champs lors de l’ajout d’un collaborateur
+- Mise à jour de l’état de disponibilité des produits lors de la mise à jour des stocks

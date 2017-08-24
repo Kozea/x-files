@@ -1,0 +1,1 @@
+../Dermatologie/aphtes.rst
