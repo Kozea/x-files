@@ -10,10 +10,6 @@ Diarrhée passagère
 
 La majorité des diarrhées de courte durée en France sont dues à une infection par des virus (Rotavirus, Norovirus, Adénovirus), aussi appelées « gastro-entérites épidémiques saisonnières ». Elle peut être d'origine bactérienne par consommation d'aliments infectés (elle sera communément appelée « intoxication alimentaire ») ou peuvent être dues à des parasites (sanitaires non hygiéniques).
 
-Vous pouvez consulter `le réseau Sentinelles sur les diarrhées`_
-
-.. _le réseau Sentinelles sur les diarrhées: '/health_blog/epidemiology'
-
 Attention cette fiche conseil ne concerne que les épisodes passagers de diarrhées, soit 2 jours au maximum. Il est nécessaire de consulter votre médecin rapidement si :
 
 - vos symptômes persistent ou s'aggravent après 2 jours de traitement.

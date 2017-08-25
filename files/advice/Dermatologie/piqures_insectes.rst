@@ -68,11 +68,6 @@ Transmission du chikungunya et de la dengue par le moustique :
 ---------------------------------------------------------------
 L'épidémie de dengue et la prolifération dans le sud de la France du Moustique Tigre ont conduit le ministère de la santé et les ARS (Agences Régionales de Santé) à produire et diffuser un dépliant d'information. Celui-ci donne des recommandations pour se protéger du moustique et éviter sa prolifération.
 
-⇒Télécharger le dépliant `Moustique tigre`_
-
-.. _Moustique tigre: 'lol'
-
-
 Sources :
 ---------
 

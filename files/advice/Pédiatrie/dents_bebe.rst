@@ -32,10 +32,8 @@ Les gencives peuvent enfler et les joues du bébé risquent de rougir et d'être
 Certains chanceux ne ressentiront presque rien durant la poussée des dents. Mais pour la plupart, les premières poussées dentaires ne sont pas une partie de plaisir.
 L'enfant peut aussi être sujet à des troubles du sommeil car ses dents le « travaille ».
 
-D'autres troubles seront observés, tels que des troubles du transit (selles plus molles et plus fréquentes), qui pourront entraîner des érythèmes fessiers (voir la fiche conseil sur `les érythèmes fessiers`_), mais aussi des poussées de fièvre (liées généralement à la sortie des quatre molaires et à l'inflammation de la gencive qui en résulte).
+D'autres troubles seront observés, tels que des troubles du transit (selles plus molles et plus fréquentes), qui pourront entraîner des érythèmes fessiers.
 Au fil des semaines, vous allez voir apparaître dans sa bouche des petits bouts blanc sur la gencive, signe que les dents commencent à sortir.
-
-.. _les érythèmes fessiers: '/health_blog/advice/fesses_rouges'
 
 Comment soulager bébé ?
 -----------------------
