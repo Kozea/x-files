@@ -101,6 +101,13 @@ Le médicament est envoyé par la Pharmacie sous la responsabilité du pharmacie
 
 La Pharmacie s’engage à livrer les Produits en France métropolitaine et en Corse dans un délai moyen de cinq (5) jours ouvrés après validation de la commande.  Elle peut utiliser notamment les services de La Poste ou Collisimo pour expédier les Produits. Le délai de livraison est donné à titre indicatif et peut varier selon le mode de livraison et l’endroit de livraison. Lorsque plusieurs Produits sont commandés en même temps et que les délais d’expédition sont différents, le délai d’expédition de commande est basé sur le délai le plus long. Les Produits sont envoyés à l’adresse de livraison indiquée par l’Internaute sur la commande. Lors de l’expédition de la commande, la Pharmacie prévient l’Internaute qu’une facture originale est accessible en ligne sur le Site Internet dans la rubrique « Mon Compte ».
 
+Spécificité Pierre Fabre Dermo Cosmétique (A-derma, Eau Thermale Avène, Ducray, Elancyl,  Klorane, Galénic et René Furterer) : limite la vente de ses Produits à 6 références identiques vendues à un même utilisateur final au cours d’une période de 15 jours consécutifs. Nous sommes tenus d'informer Pierre Fabre Dermo Cosmétique pour toute demande de livraison supérieure à ce nombre.
+
+Spécificités liées à Pierre Fabre Dermo Cosmétique :
+
+La vente de l'ensemble des gammes Pierre Fabre Dermo Cosmétique (A-derma, Avène, Ducray, Elancyl,  Klorane, Galénic et René Furterer) est limitée à l'Espace Economique Européen.
+Toute vente effectuée en dehors de cet espace économique sera immédiatement remboursée.
+Espace Economique Européen : Allemagne, Autriche, Belgique, Bulgarie, Chypre (partie grecque), Danemark, Espagne, Estonie, Finlande, France, Grèce, Hongrie, Irlande, Italie, Lettonie, Lituanie, Luxembourg, Malte, Pays-Bas, Pologne, Portugal, République tchèque, Roumanie, Royaume-Uni, Slovaquie, Slovénie, Suède, Islande, Liechtenstein, Norvège.
 
 3.5 Droit de rétractation
 *************************
@@ -125,7 +132,7 @@ A réception du Produit, la Pharmacie étudiera la possibilité de l’échange 
 3.7 Effets indésirables
 ***********************
 
-L’Internaute peut déclarer des effets indésirables liés à un médicament via le site internet de l’ANSM pour lequel est prévu sur le Site Internet un lien hypertexte. 
+L’Internaute peut déclarer des effets indésirables liés à un médicament via le site internet de l’ANSM pour lequel est prévu sur le Site Internet un lien hypertexte.
 
 
 Article 4 : Responsabilité - Garantie
@@ -153,7 +160,7 @@ Article 5 : Propriété intellectuelle
 
 2. Le Prestataire éditeur du Site Internet ainsi que chaque Pharmacie demeurent propriétaire des éléments incorporels créés sur le Site Internet.
 
-3. Par conséquent, toute reproduction par l’Internaute, sur quelque support que ce soit, papier, informatique, électronique, sans autorisation préalable du Prestataire éditeur ou de la Pharmacie s’agissant de leurs créations intellectuelles sur le Site Internet couvertes par le droit d’auteur au sens de l'article L. 112-2 du Code de la propriété intellectuelle, constituerait une contrefaçon sanctionnée par les articles L. 335-2 et suivants du même code. 
+3. Par conséquent, toute reproduction par l’Internaute, sur quelque support que ce soit, papier, informatique, électronique, sans autorisation préalable du Prestataire éditeur ou de la Pharmacie s’agissant de leurs créations intellectuelles sur le Site Internet couvertes par le droit d’auteur au sens de l'article L. 112-2 du Code de la propriété intellectuelle, constituerait une contrefaçon sanctionnée par les articles L. 335-2 et suivants du même code.
 
 
 
