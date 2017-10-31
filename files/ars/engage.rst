@@ -25,7 +25,10 @@ m'engage par la présente solennellement
    générales et spécifiques aux médicaments ;
 8. à l'affichage sur chaque page du logo commun mis en place au niveau
    communautaire dès qu'il sera défini ;
-9. au respect des Bonnes Pratiques mentionnées à l'article L.5121-5 du 12 Juillet 2013 ;
+9. au respect des Bonnes Pratiques mentionnées à l'arrêté du 28 novembre 2016 relatif
+   aux bonnes pratiques (BP) de dispensation des médicaments dans les pharmacies d’officine,
+   […] mentionnées à l’article L. 5121-5 du CSP et à l'arrêté du 28 novembre 2016
+   relatif aux règles techniques applicables aux sites internet de commerce électronique de médicaments;
 10. le contenu des newsletter concernant les médicaments ne pourront comporter
     que des informations émanant des autorités sanitaires ;
 11. les promotions sur les médicaments devront respecter les règles
