@@ -15,7 +15,7 @@ Le site de la {{ client.title|safe }} qui sera mis en ligne, est développé sel
 Ce site est le véritable prolongement virtuel de la pharmacie. Il est entièrement modulable et personnalisable par le
 pharmacien. Il offre ainsi la possibilité pour le pharmacien de fournir à ses patients un service de qualité.
 
-Ce site Internet a été développé pour répondre aux exigences réglementaires en application de l’arrêté du 20 juin 2013 relatif aux bonnes pratiques de dispensation des médicaments par voie électronique.
+Ce site Internet a été développé pour répondre aux exigences réglementaires en application de l’arrêté du 28 novembre 2016 relatif aux bonnes pratiques de dispensation des médicaments dans les pharmacies d'officine, les pharmacies mutualistes et les pharmacies de secours minières.
 
 Les pages suivantes (**Accueil-Ma Pharmacie-Nos Produits-Conseils Santé-Nos Services-Mon Compte**) donnent accès aux différents contenus du site, sachant qu'au moment de la rédaction de ce dossier, le site peut ne pas être encore totalement finalisé et qu'à ce stade du développement certaines informations n'apparaissent pas forcément. Toutes les informations indispensables et réglementaires concernant l'officine seront impérativement présentes sur le site dès sa mise en ligne.
 
@@ -143,7 +143,7 @@ Sur tous les bas de pages du site Internet on trouve les informations suivantes�
 - Les mises en garde générale
 - les conditions générales de vente (CGV)
 - FAQ
-- L'indication 'Page mise à jour le ...'.
+- L'indication 'Page mise à jour le ...'. Toutes les informations consultables sur le site sont mises à jour régulièrement.
 - Le logo de l'Ordre National des Pharmaciens (avec lien vers le site Internet).
 - Le logo de l'ARS (avec lien vers le site Internet).
 - Le logo du Ministère des Affaires Sociales et de la Santé (avec lien vers le site Internet).
@@ -241,7 +241,7 @@ Nos Produits
 .. image:: {{ url_for('static', filename='images/ars/our_products.png') }}
 
 
-Le menu **Nos Produits** comporte trois onglets, dont un onglet spécifique pour la vente de **Médicaments**, clairement distingué par rapport aux **Autres produits de santés** vendus par la pharmacie comme il est précisé dans la loi du 19 Juin 2013.
+Le menu **Nos Produits** comporte trois onglets, dont un onglet spécifique pour la vente de **Médicaments**, clairement distingué par rapport aux **Autres produits de santés** vendus par la pharmacie comme il est précisé dans la loi du 28 novembre 2016.
 
 1. **Médicaments** :
    Ils sont classés en ordre alphanumérique, présentés de façon claire et objective, par leur dénomination de fantaisie et la dénomination commune.
@@ -269,7 +269,7 @@ Le menu **Nos Produits** comporte trois onglets, dont un onglet spécifique pour
 Modalités d'achat d'un médicament
 ---------------------------------
 
-Lorsque le patient internaute souhaite commander un médicament, il se rend dans l'onglet « Nos produits ». Cet onglet est séparé en 2 catégories, celle des médicaments et celle des autres produits conformément à l’arrêté du 20 juin 2013. Il constitue son panier selon les conditions définies dans l’arrêté du 20 juin 2013.
+Lorsque le patient internaute souhaite commander un médicament, il se rend dans l'onglet « Nos produits ». Cet onglet est séparé en 2 catégories, celle des médicaments et celle des autres produits conformément à l’arrêté du 28 novembre 2016. Il constitue son panier selon les conditions définies dans l’arrêté du 28 novembre 2016.
 
 Dans le cas d'achat d'un médicament, l'internaute à la possibilité de naviguer sur une des catégories générales d'indication dans le menu « Médicaments » (homéopathie, circulation veineuse, douleurs, fièvre, ...).
 
@@ -642,6 +642,11 @@ On retrouvera pour le médicament : le prix TTC, l'image, et toutes les informa
 D'autres indications sont à renseigner uniquement par le pharmacien car cela concerne des informations propres à sa pharmacie. Il y a l'exclusivité (pas d'exclusivité, exclusivité officinale, exclusivité Internet) ; la quantité de stock ; la quantité maximale à l'achat ; la disponibilité du produit et la notice en format pdf. Concernant la quantité maximale à l'achat, le pharmacien s'engage à ne pas dépasser **un mois** de traitement à posologie usuelle ou la quantité nécessaire pour le traitement d'épisode aigu.
 Pour l'intégration de tout autre produit par code CIP13, seul le nom du produit, le nom du laboratoire et le code CIP13, sont indiqués par défaut. Les autres informations sont à indiquer par le pharmacien.
 
+Retrait de lots
+###############
+
+En cas d'alerte sanitaire pour retrait de lot, le pharmacien dispose de différents moyens de communication pour prévenir ses patients type Newsletters et messagerie instantanée (cf p19, p23).
+
 
 .. image:: {{ url_for('static', filename='images/ars/add_product.png') }}
    :width: 14cm
@@ -934,7 +939,7 @@ Un patient de moins de 16 ans ne peut pas s'inscrire. Le message d'erreur suivan
 Hébergement des données
 '''''''''''''''''''''''
 
-Les données de santé collectées par le site Internet {{ client.ars_domains }} sont hébergées par la SSII spécialisée en hébergement GRITA.
+Les données de santé à caractère personnel collectées par le site Internet {{ client.ars_domains }} sont hébergées par la SSII spécialisée en hébergement GRITA.
 La société GRITA est agréée par le Ministère de la Santé et des Sports depuis juin 2010 en qualité d’Hébergeur de Données de Santé à caractère personnel et depuis janvier 2015 avec un agrément Epharmacie.
 Lors d'une inscription d'un patient sur le site Internet : {{ client.ars_domains }}, un message d'information s'affiche concernant l'hébergement de ses données de santé (Consentement exprès du patient).
 
@@ -945,7 +950,7 @@ Lors d'une inscription d'un patient sur le site Internet : {{ client.ars_domain
 Messagerie
 ''''''''''
 
-Dans le cadre de l'arrêté du 20 juin 2013 relatif aux **Bonnes Pratiques de Dispensation des Médicaments par Voie Électronique**, le site Internet est muni d'une messagerie.
+Dans le cadre de l'arrêté du 28 novembre 2016 relatif aux bonnes pratiques de dispensation des médicaments dans les pharmacies d'officine, les pharmacies mutualistes et les pharmacies de secours minières, le site Internet est muni d'une messagerie.
 
 Cette messagerie permet un dialogue pertinent entre le pharmacien et le patient. Il est mis en place par des moyens sécurisés propres à préserver la confidentialité des échanges entre le pharmacien et le patient.
 Aucun enregistrement d’images, de films et de bandes sonores n'est réalisé.

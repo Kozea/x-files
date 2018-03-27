@@ -5,6 +5,8 @@ Les présentes Conditions Générales de Vente déterminent les règles de vente
 
 Ces Conditions Générales de vente peuvent être modifiées à tout moment, la dernière version en vigueur étant celle accessible en ligne à l’adresse {{ client.favorite_full_domain }} par le patient internaute lors de sa connexion au site internet de la Pharmacie.
 
+Toutes les informations consultables sur le site sont mises à jour régulièrement.
+
 
 Article 1 : Définitions
 -----------------------
@@ -38,9 +40,9 @@ Article 2 : Objet
 
 1. Les présentes Conditions Générales de Vente ont pour objet de définir les modalités contractuelles relatives à la vente à distance des Produits entre la Pharmacie et l’Internaute.
 
-2. Le Site Internet de la Pharmacie comporte un onglet spécifique à la vente de médicaments pour faire une distinction claire par rapport aux autres Produits vendus par la Pharmacie. Le Site Internet est, pour les médicaments, dans la continuité de la Pharmacie physique conformément aux dispositions de l’ordonnance 2012-1247 du 19 décembre 2012 et de l’arrêté du 20 juin 2013 relatifs aux bonnes pratiques de dispensation des médicaments par voie électronique.
+2. Le Site Internet de la Pharmacie comporte un onglet spécifique à la vente de médicaments pour faire une distinction claire par rapport aux autres Produits vendus par la Pharmacie. Le Site Internet est, pour les médicaments, dans la continuité de la Pharmacie physique conformément aux dispositions de l’ordonnance 2012-1247 du 19 décembre 2012 et de l’arrêté du 28 novembre 2016 relatif aux bonnes pratiques de dispensation des médicaments dans les pharmacies d'officine, les pharmacies mutualistes et les pharmacies de secours minières.
 
-3. La Pharmacie est autorisée, conformément aux dispositions de l’article R. 5125-74 du Code de la santé publique, par le directeur général de l’agence régionale de santé (ARS) à vendre des médicaments sur internet.
+3. La Pharmacie est autorisée, conformément aux dispositions des articles L. 5121-5 et L. 5125-39 du Code de la santé publique, par le directeur général de l’agence régionale de santé (ARS) à vendre des médicaments sur internet.
 
 4. La Pharmacie prévoit un lien hypertexte vers le site internet de l’Ordre national des pharmaciens et vers celui du ministère chargé de la santé qui tiennent à jour une liste des sites internet des pharmacies autorisées.
 
@@ -51,7 +53,7 @@ Article 3 : Modalités d’exécution
 3.1 Information - Commande
 **************************
 
-Les informations sur la Pharmacie, conformément aux dispositions de l’arrêté du 20 juin 2013 concernant les médicaments, sont accessibles à tout moment sur l’ensemble des pages du Site Internet par un lien renvoyant à une page dédiée, dans une rubrique qui s’intitule « qui sommes-nous ? ». L’Internaute a accès à un espace privé intitulé « mon compte », par un Code d’Accès, recensant notamment les commandes passées ainsi que l’intégralité de ses échanges avec la Pharmacie.
+Les informations sur la Pharmacie, conformément aux dispositions de l’arrêté du 28 novembre 2016 concernant les médicaments, sont accessibles à tout moment sur l’ensemble des pages du Site Internet par un lien renvoyant à une page dédiée, dans une rubrique qui s’intitule « qui sommes-nous ? ». L’Internaute a accès à un espace privé intitulé « mon compte », par un Code d’Accès, recensant notamment les commandes passées ainsi que l’intégralité de ses échanges avec la Pharmacie.
 
 Le Code d’Accès est personnel et confidentiel et ne peut être modifié que sur demande de l’Internaute ou à l’initiative de l’hébergeur agréée des Données Personnelles dans le cadre de sa mission légale et réglementaire et de son agrément.
 
