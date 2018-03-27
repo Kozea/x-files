@@ -645,7 +645,7 @@ Pour l'intégration de tout autre produit par code CIP13, seul le nom du produit
 Retrait de lots
 ###############
 
-En cas d'alerte sanitaire pour retrait de lot, le pharmacien dispose de différents moyens de communication pour prévenir ses patients type Newsletters et messagerie instantanée (cf p19, p23).
+En cas d'alerte sanitaire pour retrait de lot, le pharmacien dispose de différents moyens de communication pour prévenir ses patients type Newsletters et messagerie instantanée, respectivement dans le 1.7.1 partie 'Gestion de mes patients' -> 'Envoyer un message à mes patients' (page 38) et le 1.7.2 partie 'Messagerie' (page 46).
 
 
 .. image:: {{ url_for('static', filename='images/ars/add_product.png') }}
