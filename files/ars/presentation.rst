@@ -292,7 +292,7 @@ besoin de plus d’informations et de conseils, contactez votre pharmacien au t�
 
 En cas d'ajout d'un médicament au panier, le patient doit prendre connaissance **obligatoirement** de la notice concernant le médicament sélectionné et reconnaître en avoir pris connaissance.
 
-La quantité délivrable pour le médicament ne peut excéder **un mois** de traitement à posologie usuelle ou la quantité nécessaire pour le traitement d'épisode aigu (blocage automatique si la quantité est supérieure). Ces quantités sont définies au préalable par le pharmacien (cf 1.7.1 Fonctionnalités du site côté pharmacien > Gestion de mes produits > Mettre mes produits en ligne page 27)
+La quantité délivrable pour le médicament ne peut excéder **un mois** de traitement à posologie usuelle ou la quantité nécessaire pour le traitement d'épisode aigu (blocage automatique si la quantité est supérieure), les quantités devront également respecter la dose d'éxonération indiquée pour chaque substance active. Ces quantités sont définies au préalable par le pharmacien (cf 1.7.1 Fonctionnalités du site côté pharmacien > Gestion de mes produits > Mettre mes produits en ligne page 27)
 
 La quantité minimale de commande pour un médicament correspond à une boîte de médicament.
 **Le pharmacien du site Internet s'assure personnellement du respect des quantités délivrables et de la réglementation en vigueur.**

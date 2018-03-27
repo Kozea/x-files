@@ -97,7 +97,7 @@ La Pharmacie se réserve le droit d’interrompre ou d’annuler une transaction
 
 Les stocks des Produits indiqués sur le Site Internet sont à titre indicatif. En cas de rupture de stocks, la Pharmacie se réserve le droit d’annuler la commande ou de soustraire des articles de la commande avec le consentement de l’Internaute.
 
-La quantité maximale, pour ce qui concerne le médicament à délivrer, est conforme à la durée du traitement indiqué dans le RCP (Résumé Caractéristique du Produit), et ne peut excéder un (1) mois de traitement à posologie usuelle ou la quantité maximale nécessaire pour les traitements d’épisode aigu.
+La quantité maximale, pour ce qui concerne le médicament à délivrer, est conforme à la durée du traitement indiqué dans le RCP (Résumé Caractéristique du Produit), et ne peut excéder un (1) mois de traitement à posologie usuelle ou la quantité maximale nécessaire pour les traitements d’épisode aigu, les quantités devront également respecter la dose d'éxonération indiquée pour chaque substance active.
 
 Le médicament est envoyé par la Pharmacie sous la responsabilité du pharmacien dans le respect du RCP et selon les modalités et conditions définies aux articles R. 5125-47 à R.5125-49 du Code de la santé publique. L’Internaute peut également se déplacer à la Pharmacie pour se voir délivrer le médicament commandé sur le Site Internet. Dans ce cas, l’inscription dans le dossier pharmaceutique (DP) lui est proposée. Les délais de traitement de la commande et de la livraison et le montant des frais de port doivent être clairement indiqués.
 
