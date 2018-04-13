@@ -40,7 +40,7 @@ Article 2 : Objet
 
 1. Les présentes Conditions Générales de Vente ont pour objet de définir les modalités contractuelles relatives à la vente à distance des Produits entre la Pharmacie et l’Internaute.
 
-2. Le Site Internet de la Pharmacie comporte un onglet spécifique à la vente de médicaments pour faire une distinction claire par rapport aux autres Produits vendus par la Pharmacie. Le Site Internet est, pour les médicaments, dans la continuité de la Pharmacie physique conformément aux dispositions de l’ordonnance 2012-1247 du 19 décembre 2012 et de l’arrêté du 28 novembre 2016 relatif aux bonnes pratiques de dispensation des médicaments dans les pharmacies d'officine, les pharmacies mutualistes et les pharmacies de secours minières.
+2. Le Site Internet de la Pharmacie comporte un onglet spécifique à la vente de médicaments pour faire une distinction claire par rapport aux autres Produits vendus par la Pharmacie. Le Site Internet est, pour les médicaments, dans la continuité de la Pharmacie physique conformément aux dispositions de l’arrêté du 28 novembre 2016 relatif aux bonnes pratiques de dispensation des médicaments dans les pharmacies d'officine, les pharmacies mutualistes et les pharmacies de secours minières.
 
 3. La Pharmacie est autorisée, conformément aux dispositions des articles L. 5121-5 et L. 5125-39 du Code de la santé publique, par le directeur général de l’agence régionale de santé (ARS) à vendre des médicaments sur internet.
 

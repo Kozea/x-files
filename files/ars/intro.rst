@@ -7,7 +7,7 @@ Monsieur le Directeur,
 
 Dans le cadre de
 {{ 'notre' if many else 'mon' }}
-activité officinale et suite à la publication de l'Ordonnance du 21 décembre 2012,
+activité officinale et suite à la publication de l'arrêté du 28 novembre 2016,
 {{ 'nous souhaitons proposer à nos' if many else 'je souhaite proposer à mes' }}
 patients un service de commerce électronique de médicaments.
 
