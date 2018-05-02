@@ -110,7 +110,7 @@ Comment puis-je modifier le texte de présentation de mon équipe ?
 
 Rendez-vous sur le bloc “Présentation de l’équipe”. Il vous permet de mettre en avant sur la page d’accueil, une photo de votre équipe, de votre devanture ….
 
-Pour ajouter un visuel, cliquez sur **+** , sélectionnez le visuel de votre choix sur votre banque de données située sur votre ordinateur * (votre explorateur de fichier)*.  
+Pour ajouter un visuel, cliquez sur **+** , sélectionnez le visuel de votre choix sur votre banque de données située sur votre ordinateur *(votre explorateur de fichier)*.  
 
 Vous pouvez y insérer le nombre de visuel de votre choix, ils défileront dans un slider dédié.
 
@@ -262,7 +262,7 @@ Un système de notification est également présent sur l’onglet Mon compte.
 Comment gérer mes produits ?
 ............................
 
-*Pour retrouver vos produits, rendez-vous sur l’onglet “Produits” du menu général
+*Pour retrouver vos produits, rendez-vous sur l’onglet “Produits” du menu général.*
 
 
 Comment changer le statut de ses produits ?
