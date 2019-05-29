@@ -28,14 +28,13 @@ Liste et qualification du personnel de l'officine
 .................................................
 
 - Si ces informations sont déjà correctement rentrées sur le site Internet existant de l'officine
-  (onglet « Équipe ») chez Pharminfo.fr, nous nous chargeons d'éditer le document.
+  chez Pharminfo.fr, nous nous chargeons d'éditer le document.
 - Dans le cas d'une création de site, merci de nous fournir la liste exhaustive du personnel
   officinal ainsi que sa qualification.
-- Indiquer clairement sur la liste le personnel affecté à la vente en ligne. Sur le site
-  Pharminfo.fr existant, cliquez sur « Modifier équipe », « Modifier collaborateur », et
-  indiquez dans le formulaire du collaborateur s'il est « Responsable de la vente en ligne » ou
-  « Affecté à la vente en ligne » (seul les titulaires et les adjoints peuvent être responsables
-  de la vente en ligne).
+- Indiquer clairement  sur la liste le personnel affecté à la vente en ligne.
+  Sur le site Pharminfo.fr existant, cliquez sur « Ma Pharmacie » dans la gestion du site, puis « L’équipe » et indiquez dans
+  le formulaire du collaborateur s’il est « Responsable de la vente en ligne » ou
+  “Affecté à la vente en ligne” (seul les titulaires et les adjoints peuvent être responsables de la vente en ligne).
 - Le titulaire peut déléguer l'exploitation du site Internet à un adjoint. Dans ce cas remplir et
   signer le formulaire de délégation (Cf Formulaire de délégation joint au dossier) prévu à cet effet.
 
