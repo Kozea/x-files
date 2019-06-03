@@ -39,7 +39,7 @@ Activité
   Commerce de détail de produits pharmaceutiques en magasin spécialisé (Code APE 4773 Z)
 
 Siège social - adresse
-  {{ client.address|safe }} {{ client.zip }} {{ client.city|safe }}
+  {{ client.address.replace('\r', '').replace('\n', ', ')|safe }} {{ client.zip }} {{ client.city|safe }}
 
 Numéros téléphone / télécopie
   {{ client.phone }} {% if client.fax %}/ {{ client.fax }}{% endif %}
@@ -134,14 +134,12 @@ Prestataires techniques
 | Site Internet : http://www.claranet.fr/
 |
 
-.. image:: {{ url_for('static', filename='images/ars/legal_notice.png') }}
-
 
 Sur tous les bas de pages du site Internet on trouve les informations suivantes :
 
-- Les mises en garde générale
-- les conditions générales de vente (CGV)
-- FAQ
+- Les mises en garde générale.
+- Les conditions générales de vente (CGV).
+- FAQ.
 - L'indication 'Page mise à jour le ...'. Toutes les informations consultables sur le site sont mises à jour régulièrement.
 - Le logo de l'Ordre National des Pharmaciens (avec lien vers le site Internet).
 - Le logo de l'ARS (avec lien vers le site Internet).
@@ -171,57 +169,15 @@ Sont également visibles et modifiables par le titulaire sur la page **Accueil**
 et un accès direct à la page d'information des **Pharmacies de garde** avec le 3237 : numéro officiel des syndicats pharmaceutique de France.
 
 .. image:: {{ url_for('static', filename='images/ars/front.png') }}
+  :name: front-image
 
 Sur la page d’accueil du site, des blocs numériques sont proposés à l’administrateur du site qui choisit de les faire apparaître
 ou non en fonction de la présentation qu’il veut donner à son site. La fonction **modifier les modules** s’affiche quand l’administrateur est connecté.
-On retrouve notamment dans ces propositions le bloc **Coordonnées** qui permet à tout Internaute d’avoir systématiquement
+On retrouve notamment dans ces propositions le bloc **Coordonnées** qui permet à tout internaute d’avoir systématiquement
 sous les yeux les informations et les contacts de la pharmacie, le **plan d'accès** et les **horaires** de la pharmacie.
-Un onglet **Blog Santé** permet aussi d’accéder directement à la bibliothèque de fiches conseils de la pharmacie, imprimables par l’Internaute.
+Un onglet **Blog Santé** permet aussi d’accéder directement à la bibliothèque de fiches conseils de la pharmacie, imprimables par l’internaute.
 
 Un onglet **Ordonnances** donnant accès au service de **réservation d’ordonnance** est présent dans le menu.
-
-
-Ma Pharmacie
-............
-
-
-.. image:: {{ url_for('static', filename='images/ars/officine_presentation.png') }}
-
-
-Le menu **Ma pharmacie** permet d'accéder à différents onglets déjà décrits ci-dessus : **Présentation** de la pharmacie, **Coordonnées** et **Horaires d'ouverture** de la pharmacie. Il permet également d'afficher en plan large le **Plan d'accès** à la pharmacie en mode dynamique (géolocalisation intégrée).
-
-
-.. image:: {{ url_for('static', filename='images/ars/map.png') }}
-
-Sur cette page se trouve aussi le bloc permettant d’afficher les spécialités et les services dispensés et proposés à la pharmacie.
-
-
-.. image:: {{ url_for('static', filename='images/ars/specialized_services.png') }}
-
-
-La liste des collaborateurs de l'équipe officinale :
-
-
-.. image:: {{ url_for('static', filename='images/ars/team.png') }}
-
-
-L’administrateur du site renseigne le bloc Membres de l’équipe avec
-pour chaque membre la possibilité d’afficher les informations suivantes :
-
-
-1. Le nom de famille (possibilité de le masquer) ;
-2. Le prénom ;
-3. La civilité ;
-4. Le poste ;
-5. Le diplôme ;
-6. Pour les pharmaciens adjoints, il est possible de préciser ceux qui ont une délégation pour administrer le
-   site internet de l’Officine au niveau de la vente en ligne. ;
-7. L’email (il est possible de le masquer, s’il est différent de celui de la pharmacie) ;
-8. Le numéro de téléphone ;
-
-NB : Une fois connecté et sur la page d’ajout d’un membre de l’équipe, *le titulaire se voit rappeler la réglementation
-et les règles d’usage concernant la diffusion des données personnelles des collaborateurs ainsi que leur droit à l’image.
-Le collaborateur doit donc donner expressément son consentement.*
 
 
 Présentation des produits
@@ -244,7 +200,7 @@ clairement distingué par rapport aux produits de **Parapharmacie** et **Matéri
    En cliquant sur le produit quand l’internaute est sur une vue en liste, on lui permet d’accéder aux informations détaillées comme la notice du médicament, les informations relatives aux précautions d’emploi
    (indications thérapeutiques, contres-indications, mises en garde spéciales, posologie, interaction médicamenteuses, effets indésirables…)
 
-   Un lien spécial permet de consulter directement les Résumés des Caractéristiques du produit ( RCP) sur le site Internet de l’ANSM, voire le cas échéant de l’EMEA.
+   Un lien spécial permet de consulter directement les Résumés des Caractéristiques du produit (RCP) sur le site Internet de l’ANSM, voire le cas échéant de l’EMEA.
 
    La notice du médicament peut aussi être téléchargée en format PDF par l’utilisateur pour être imprimée ou sauvegardée.
 
@@ -337,15 +293,22 @@ peut être renseigné à posteriori dès lors qu'il se rend à l'officine physiq
 
 
 .. image:: {{ url_for('static', filename='images/ars/recap.png') }}
+  :name: recap-image
 
 
 L'interface de paiement Ingenico s'ouvre alors.
 
 
-Blog santé
-..........
+Onglet Promotions
+.................
 
-L'onglet **Blog santé** propose un large contenu éditorial à destination des Internautes,
+Dans cet onglet sont présentés seulement les produits en promotion. La présentation est la même que la page produit.
+
+
+Onglet Blog santé
+.................
+
+L'onglet **Blog santé** propose un large contenu éditorial à destination des internautes,
 informatif et préventif dans le cadre de l’éducation thérapeutique du patient.
 
 Sont aussi proposés dans cette rubrique des articles sur l’actualité de l’officine
@@ -359,21 +322,64 @@ en consultation et téléchargement dans l’onglet **Ma pharmacie**.
 
 .. image:: {{ url_for('static', filename='images/ars/health_advices.png') }}
 
-Ordonnances
-...........
+Onglet Ordonnances
+..................
 
 Un service de réservation d'ordonnance est proposé aux clients de la pharmacie qui peuvent scanner ou photographier leur ordonnance
 et l'envoyer à la pharmacie pour préparation. Les produits seront retirés à la pharmacie sur présentation de l'ordonnance.
 
 
-Ma pharmacie
-............
+Onglet Ma pharmacie
+...................
+
+.. image:: {{ url_for('static', filename='images/ars/officine_presentation.png') }}
+
+
+L'onglet **Ma pharmacie** permet d'accéder à différents onglets déjà décrits ci-dessus : **Présentation** de la pharmacie,
+**Coordonnées**, **Horaires d'ouverture** de la pharmacie et la **pharmacie de garde**.
+Il permet également d'afficher en plan large le **Plan d'accès** à la pharmacie en mode dynamique (géolocalisation intégrée).
+Enfin, on peut également accéder à la présentation des spécialités et services de la pharmacie, de l'équipe, aux numéros et contacts utiles,
+à la pharmacovigilance et aux calendriers vaccinaux et polliniques.
+
+
+.. image:: {{ url_for('static', filename='images/ars/map.png') }}
+
+
+La liste des spécialités et services de la pharmacie :
+
+
+.. image:: {{ url_for('static', filename='images/ars/specialized_services.png') }}
+
+
+La liste des collaborateurs de l'équipe officinale :
+
+
+.. image:: {{ url_for('static', filename='images/ars/team.png') }}
+
+
+L’administrateur du site renseigne le bloc Membres de l’équipe avec
+pour chaque membre la possibilité d’afficher les informations suivantes :
+
+
+1. Le nom de famille (possibilité de le masquer) ;
+2. Le prénom ;
+3. La civilité ;
+4. Le poste ;
+5. Le diplôme ;
+6. Pour les pharmaciens adjoints, il est possible de préciser ceux qui ont une délégation pour administrer le
+   site internet de l’Officine au niveau de la vente en ligne. ;
+7. L’email (il est possible de le masquer, s’il est différent de celui de la pharmacie) ;
+8. Le numéro de téléphone ;
+
+*NB : Une fois connecté et sur la page d’ajout d’un membre de l’équipe, le titulaire se voit rappeler la réglementation
+et les règles d’usage concernant la diffusion des données personnelles des collaborateurs ainsi que leur droit à l’image.
+Le collaborateur doit donc donner expressément son consentement.*
 
 
 Pharmacovigilance
 -----------------
 
-Cette rubrique permet au patient Internaute de déclarer des effets indésirables liés à un
+Cette rubrique permet au patient internaute de déclarer des effets indésirables liés à un
 médicament via le formulaire officiel fourni par l'ANSM (Agence Nationale de Sécurité du Médicament et des Produits de Santé).
 Le patient internaute peut ainsi télécharger la fiche destinée aux patients de « déclaration
 d’effet indésirable susceptible d’être dû à un médicament ou produit mentionné à l’Art. R.5121-150 » de l’ANSM.
@@ -392,11 +398,12 @@ renseigner les pharmacies de garde sur son secteur et d’intégrer une pièce j
 image, texte, etc).
 
 Par défaut le message suivant est affiché :
-**Pour toute urgence hors des horaires d’ouverture de la pharmacie, téléphonez au
+« Pour toute urgence hors des horaires d’ouverture de la pharmacie, téléphonez au
 numéro 17 (gendarmerie ou police) qui vous indiquera la pharmacie la plus proche.
-Pour trouver directement la pharmacie de garde la plus proche de votre commune, téléphonez directement au 32 37.»
+Pour trouver directement la pharmacie de garde la plus proche de votre commune, téléphonez directement au 32 37. »
 
 .. image:: {{ url_for('static', filename='images/ars/guard.png') }}
+  :name: guard-image
 
 
 Numéros utiles
@@ -440,17 +447,18 @@ il fera apparaître un menu, puis en cliquant sur **Mon profil** il pourra modif
 
 
 .. image:: {{ url_for('static', filename='images/ars/client_contact.png') }}
+  :name: client-contact-image
 
 
-Onglet **Ma pharmacie**
-.......................
+Onglet Ma pharmacie
+...................
 
 
 Plusieurs éléments permettent de personnaliser le site Internet de la pharmacie dans l’onglet **Ma pharmacie**.
 
 
 Mes informations
-****************
+----------------
 
 Cet onglet permet de mettre à jour toutes les informations sur l’établissement depuis différents blocs,
 que l’on retrouve sur la page d’accueil du site Internet et dans l’onglet **Ma pharmacie** coté patient.
@@ -460,35 +468,35 @@ que l’on retrouve sur la page d’accueil du site Internet et dans l’onglet 
 
 
 L’équipe
-********
+--------
 
-Permet de proposer une description de l’équipe et de ses membres.
+Cet onglet permet de proposer une description de l’équipe et de ses membres.
 Seul l’administrateur du site peut ajouter des collaborateurs, modifier leur fiche et en retirer de la liste.
 Chaque collaborateur à un identifiant et un mot de passe pour se connecter et un système
 de gestion de droits permet de donner à chacun des accès spécifiques.
 
 
 Services / Spécialités
-**********************
+----------------------
 
 Ces rubriques permettent de choisir l’affichage des spécialités
 et services dispensés par l’officine parmi une liste exhaustive et d’en modifier le contenu si besoin.
 
 
 Liens utiles
-************
+------------
 
 Ici le pharmacien peut modifier le contenu affiché dans bloc **Liens utiles** dans l’onglet **Ma pharmacie** coté patient.
 
 
-Onglet **Blog santé**
-.....................
+Onglet Blog santé
+.................
 
 Cet espace permet de créer, modifier, supprimer les articles affichés dans le menu du site sur l’onglet **Blog santé**.
 
 
-Onglet **Ordonnances**
-......................
+Onglet Ordonnances
+..................
 
 Lorsqu'un patient fait une réservation d'ordonnance, le pharmacien est averti par un mail.
 Dans cet onglet, les ordonnances sont triées par statut (**En attente**, **Préparées**, **Historique**) et affichées dans les onglets associés.
@@ -496,7 +504,11 @@ Ces réservations peuvent être consultées, modifiées ou supprimées.
 La modification des informations concernant une ordonnance permet de changer le statut de la réservation.
 Le pharmacien peut indiquer si l'ordonnance est :
 
-- en cours de préparation, en attente, validée, annulée ou remise.
+- en cours de préparation
+- en attente
+- validée
+- annulée
+- remise.
 
 Le patient reçoit un mail à chaque changement du statut.
 
@@ -505,16 +517,16 @@ Le patient reçoit un mail à chaque changement du statut.
 
 
 Options
-*******
+-------
 
 Dans cet onglet il peut activer ou désactiver la réservation d’ordonnance sur son site.
 
 
-Onglet **Produits**
-...................
+Onglet Produits
+...............
 
 Produits
-********
+--------
 
 Le pharmacien peut créer son catalogue produits et le gérer dans cet onglet.
 
@@ -565,71 +577,72 @@ Le pharmacien sélectionne alors le pictogramme « Ne pas prendre pendant la gro
 .. image:: {{ url_for('static', filename='images/ars/picto_admin.png') }}
 
 Retrait de lots
-~~~~~~~~~~~~~~~
+***************
 
 En cas d’alerte sanitaire pour retrait de lot, le pharmacien dispose de différents moyens de communication pour prévenir ses patients
 avec des newsletters et une messagerie instantanée. Pour cela il faut aller dans **Outils → Newsletter** ou dans **Outils → Messagerie**.
 
 
 .. image:: {{ url_for('static', filename='images/ars/add_product.png') }}
-   :width: 14cm
+  :name: add-product-image
 
 
 Promotions
-**********
+----------
 
 Le pharmacien titulaire retrouve ici l’ensemble des promotions qui ont été créées dans le tableau récapitulatif.
 Celles-ci peuvent être classées par :
 
-- Titre
-- Type
-- État (active, bientôt active ou inactive)
-- Cible (Produit ou Marque)
+- titre ;
+- type ;
+- état (active, bientôt active ou inactive) ;
+- cible (Produit ou Marque).
 
 Il a la possibilité d’avoir un résumé de toutes les promotions en cours.
 
 Il peut également ajouter une nouvelle promotion. Pour cela, après avoir cliqué sur **Ajouter**,
 le pharmacien titulaire choisit le type de promotion parmi la liste de promotions proposées :
 
-- Pour X achetés, le suivant à - Y %
-- Pourcentage de remise
-- X euros au lieu de Y
-- Pour X achetés, Y offerts
-- X achetés pour Y €
-- Bon de réduction immédiat
+- pour X achetés, le suivant à - Y % ;
+- pourcentage de remise ;
+- X euros au lieu de Y ;
+- pour X achetés, Y offerts ;
+- X achetés pour Y € ;
+- bon de réduction immédiat.
 
 Il choisit un titre, une date de début et de fin de la promotion. Ceci permettra un affichage
 et un retrait de la promotion aux dates indiquées. Enfin, il rentre les informations correspondantes au type de promotion.
 
 .. image:: {{ url_for('static', filename='images/ars/admin_add_promo.png') }}
+  :name: admin-add-promo-image
 
 Options
-*******
+-------
 
 Il peut dans cet onglet choisir le nombre de produits à afficher dans le bloc **Nos produits**.
-IL peut aussi choisir d'afficher ou non les produits sur son site.
+Il peut aussi choisir d'afficher ou non les produits sur son site.
 
-Onglet **Commandes**
-....................
+Onglet Commandes
+................
 
 Dans cet onglet, il retrouve ici l’ensemble des commandes effectuées par les internautes,
-séparées par onglet liés au statut (**En attente**, **Préparées**, **Historique**).
+séparées par onglets liés au statut (**En attente**, **Préparées**, **Historique**).
 
 Il retrouve :
 
-- Le numéro de la commande
-- Le patient
-- La date de la commande
-- Son prix total TTC
-- Le type de livraison
-- Son état
+- le numéro de la commande
+- le patient
+- la date de la commande
+- son prix total TTC
+- le type de livraison
+- son état.
 
 
 .. image:: {{ url_for('static', filename='images/ars/webstore_order.png') }}
 
 
 Modalités de validation de la commande par le pharmacien
-********************************************************
+--------------------------------------------------------
 
 Le pharmacien doit notamment avoir pris connaissance de la fiche du patient internaute avant
 de pouvoir accéder au détail de la commande et valider celle ci.
@@ -648,7 +661,7 @@ Ces factures sont archivées sur le compte du patient internaute et également s
 
 
 Livraison
-*********
+---------
 
 Dans cet onglet le pharmacien peut à tout moment adapter sa politique tarifaire de livraison et
 ajouter ou supprimer différents modes de livraison.
@@ -658,34 +671,34 @@ ajouter ou supprimer différents modes de livraison.
 
 
 Colissimo
-*********
+---------
 
 Dans cet onglet il peut renseigner ses identifiants de connexion Colissimo
 pour activer ce type de livraison et la génération de l’étiquette associée.
 
 Options
-*******
+-------
 
 Ici il peut activer ou non la vente en ligne ainsi que le paiement en ligne.
 
 
-Onglet **Menu**
-...............
+Onglet Menu
+...........
 
 Le pharmacien peut choisir d’activer ou désactiver les onglets présents dans le menu de son site.
 
 
 .. image:: {{ url_for('static', filename='images/ars/admin_options_choices.png') }}
 
-Onglet **Thème graphique**
-..........................
+Onglet Thème graphique
+......................
 
 En un seul clic, cette interface permet de relooker l’intégralité du site. Le pharmacien peut choisir
 parmi de nombreux thèmes graphiques et modifier l'aspect visuel du site,
 mais **sans aucune modification du contenu éditorial et règlementaire**.
 
-Onglet **Newsletters**
-......................
+Onglet Newsletters
+..................
 
 Dans cet onglet le pharmacien titulaire peut adresser des emails (newsletters) à ses patients.
 Pour cela, il donne un titre à son message, puis écrit le contenu.
@@ -701,7 +714,7 @@ La newsletter peut présenter différents types de message. Le pharmacien peut e
 
 - Newsletter simple
 - Newsletter sur les produits
-- Newsletter sur les promotions
+- Newsletter sur les promotions.
 
 
 Le pharmacien peut cibler son envoi selon les critères suivants :
@@ -709,7 +722,7 @@ Le pharmacien peut cibler son envoi selon les critères suivants :
 - Genre
 - Date d’inscription patients
 - Patient ayant acheté certains produits
-- Patients ayant acheté certaines marques
+- Patients ayant acheté certaines marques.
 
 
 .. image:: {{ url_for('static', filename='images/ars/alerte_sanitaire.png') }}
@@ -718,15 +731,15 @@ Le pharmacien peut cibler son envoi selon les critères suivants :
 **Le pharmacien engage sa responsabilité quant au contenu écrit dans les newsletters**.
 
 
-Onglet **Patients**
-...................
+Onglet Patients
+...............
 
 Dans cet onglet, on trouve l’affichage de la liste des patients
 inscrits sur le site avec les informations suivantes : nom, prénom, ville, email, téléphone, historique de commandes…
 
 
-Onglet **Mon contrat**
-......................
+Onglet Mon contrat
+..................
 
 
 .. image:: {{ url_for('static', filename='images/ars/admin_option_contract.png') }}
@@ -736,7 +749,7 @@ L’onglet « Mon contrat » permet de retrouver l’ensemble des informations
 
 
 Contacter Pharminfo.fr
-**********************
+----------------------
 
 **Pharminfo.fr** est la marque commerciale de la société KOZEA pour son activité de création et d'hébergement de sites Internet de pharmacies d'officine.
 
@@ -744,25 +757,25 @@ Cette rubrique permet au titulaire d'avoir toutes les informations régulièreme
 
 
 Numéro client
-*************
+-------------
 
 Le numéro de client du pharmacien titulaire.
 
 
 Date anniversaire du contrat
-****************************
+----------------------------
 
 La date d’anniversaire du contrat de la pharmacie avec Pharminfo.fr.
 
 
 Contrat d’abonnement
-********************
+--------------------
 
 Conditions générales d’utilisation des services proposées par Pharminfo.fr.
 
 
-Onglet **Factures**
-...................
+Onglet Factures
+...............
 
 
 .. image:: {{ url_for('static', filename='images/ars/admin_options_invoices.png') }}
@@ -783,22 +796,26 @@ Espace personnel
 Le patient accède à son espace personnel en cliquant sur son nom.
 
 
-Onglet **Mon profil**
-*********************
+Onglet Mon profil
+-----------------
 
 Dans cet onglet il peut modifier les informations personnelles qu’il a renseignées lors de son inscription sur le site.
 
 
-Onglet **Gestion des ordonnances**
-**********************************
+Onglet Gestion des ordonnances
+------------------------------
 
 Dans cet onglet, le patient peut suivre les ordonnances passées,
 en cours et à venir qu’il a envoyé à la pharmacie par le biais du site internet.
-Un tableau descriptif récapitule : numéro d’ordonnance, date de l’ordonnance, son statut
-(tous, annulée, en attente, en cours, préparée, remise).
+Un tableau descriptif récapitule :
+
+- numéro d’ordonnance ;
+- date de l’ordonnance ;
+- son statut (annulée, en attente, en cours, préparée et remise).
 
 
 .. image:: {{ url_for('static', filename='images/ars/patient_order_manage_patient.png') }}
+  :name: patient-order-manage-patient-image
 
 
 L'ordonnance peut également être consultée en version détaillée.
@@ -809,10 +826,10 @@ Le patient à la possibilité de réserver une nouvelle ordonnance.
 .. image:: {{ url_for('static', filename='images/ars/patient_order.png') }}
 
 
-Onglet **Mes commandes**
-************************
+Onglet Mes commandes
+--------------------
 
-Dans **Mon compte → Mes commandes**, Le patient obtient toutes les informations concernant ses commandes passées, en cours et à venir.
+Dans cet onglet, le patient obtient toutes les informations concernant ses commandes passées, en cours et à venir.
 Un tableau descriptif récapitule :
 Numéro de commande, nom du patient, date de la commande, statut de la commande
 (annulée, remboursée, en attente de paiement, en cours de préparation, préparée en pharmacie, retirée en pharmacie, payée, expédiée).
@@ -821,8 +838,8 @@ Numéro de commande, nom du patient, date de la commande, statut de la commande
 .. image:: {{ url_for('static', filename='images/ars/product_patient.png') }}
 
 
-Onglet **Mes messages**
-e**********************
+Onglet Mes messages
+-------------------
 
 
 Dans le cadre de l'arrêté du 28 novembre 2016 relatif aux bonnes pratiques de dispensation des médicaments dans les pharmacies d'officine, les pharmacies mutualistes et les pharmacies de secours minières, le site Internet est muni d'une messagerie.
@@ -842,8 +859,8 @@ Le patient peut également imprimer ses échanges avec le pharmacien.
 
 .. image:: {{ url_for('static', filename='images/ars/print_messagerie.png') }}
 
-Onglet **Pharmacovigilance**
-****************************
+Onglet Pharmacovigilance
+------------------------
 
 Dans cet onglet, le patient peut déclarer des effets indésirables d'un médicament avec le module de pharmacovigilance.
 Le patient trouvera à sa disposition le guide du remplissage du formulaire ainsi que le formulaire de l'ANSM
@@ -858,6 +875,7 @@ Pour cela,il clique sur le bouton **Se connecter** puis **Inscrivez-vous**. L’
 
 
 .. image:: {{ url_for('static', filename='images/ars/inscription.png') }}
+  :name: inscription-image
 
 
 Un patient de moins de 16 ans ne peut pas s'inscrire. Le message d'erreur suivant s'affiche :
@@ -869,7 +887,9 @@ Un patient de moins de 16 ans ne peut pas s'inscrire. Le message d'erreur suivan
 Désinscription
 ..............
 
-Si le patient s'est inscrit, s'il le souhaite, il peut se désinscrire. Pour cela, il sélectionne l'onglet « Me désinscrire » dans la rubrique « Mon compte ». Le patient arrive alors sur la page suivante :
+Le patient inscrit peut, s'il le souhaite, se désinscrire.
+Pour cela, il sélectionne l'onglet **Me désinscrire** dans la rubrique **Mon compte**.
+Le patient arrive alors sur la page suivante :
 
 
 .. image:: {{ url_for('static', filename='images/ars/unsubscribe.png') }}
@@ -884,6 +904,7 @@ Lors d'une inscription d'un patient sur le site Internet : {{ client.ars_domain
 
 
 .. image:: {{ url_for('static', filename='images/ars/inscription_grita.png') }}
+  :name: inscription-grita-image
 
 
 Réservation d'ordonnance
@@ -895,6 +916,7 @@ médicamenteuse et l'accompagnement thérapeutique du patient.
 
 
 .. image:: {{ url_for('static', filename='images/ars/patientorder.png') }}
+  :name: patientorder-image
 
 
 En cliquant sur **Envoyer mon ordonnance**, le patient obtient un descriptif des étapes de réservation d’ordonnance.
@@ -906,8 +928,8 @@ Procédure de réservation d’ordonnance :
 - Surveillez vos emails : votre pharmacien vous informe rapidement que vous pouvez venir récupérer votre commande.
 
 Pour suivre la procédure, le patient doit remplir la fiche d’information disponible sur cette même page.
-Il ajoute en pièce jointe la photo ou le fichier image de son ordonnance et ajouter différents
-commentaires qu’il jugera utile.
+Il ajoute en pièce jointe la photo ou le fichier image de son ordonnance et peut également ajouter différents
+commentaires qu’il jugera utiles.
 
 La demande de réservation d’ordonnance est un service confidentiel. Une fois
 connecté à l’aide de son identifiant et mot de passe personnel, le patient

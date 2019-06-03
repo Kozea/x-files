@@ -53,7 +53,7 @@ Article 3 : Modalités d’exécution
 3.1 Information - Commande
 **************************
 
-Les informations sur la Pharmacie, conformément aux dispositions de l’arrêté du 28 novembre 2016 concernant les médicaments, sont accessibles à tout moment sur l’ensemble des pages du Site Internet par un lien renvoyant à une page dédiée, dans une rubrique qui s’intitule « qui sommes-nous ? ». L’Internaute a accès à un espace privé intitulé « mon compte », par un Code d’Accès, recensant notamment les commandes passées ainsi que l’intégralité de ses échanges avec la Pharmacie.
+Les informations sur la Pharmacie, conformément aux dispositions de l’arrêté du 28 novembre 2016 concernant les médicaments, sont accessibles à tout moment sur l’ensemble des pages du Site Internet par un lien renvoyant à une page dédiée, dans une rubrique qui s’intitule « Mentions légales ». L’Internaute a accès à un espace privé intitulé « mon compte », par un Code d’Accès, recensant notamment les commandes passées ainsi que l’intégralité de ses échanges avec la Pharmacie.
 
 Le Code d’Accès est personnel et confidentiel et ne peut être modifié que sur demande de l’Internaute ou à l’initiative de l’hébergeur agréée des Données Personnelles dans le cadre de sa mission légale et réglementaire et de son agrément.
 

@@ -32,9 +32,9 @@ Liste et qualification du personnel de l'officine
 - Dans le cas d'une création de site, merci de nous fournir la liste exhaustive du personnel
   officinal ainsi que sa qualification.
 - Indiquer clairement  sur la liste le personnel affecté à la vente en ligne.
-  Sur le site Pharminfo.fr existant, cliquez sur « Ma Pharmacie » dans la gestion du site, puis « L’équipe » et indiquez dans
-  le formulaire du collaborateur s’il est « Responsable de la vente en ligne » ou
-  “Affecté à la vente en ligne” (seul les titulaires et les adjoints peuvent être responsables de la vente en ligne).
+  Sur le site Pharminfo.fr existant, cliquez sur **Ma Pharmacie** dans la gestion du site, puis **L’équipe** et indiquez dans
+  le formulaire du collaborateur s’il est **Responsable de la vente en ligne** ou
+  **Affecté à la vente en ligne** (seuls les titulaires et les adjoints peuvent être responsables de la vente en ligne).
 - Le titulaire peut déléguer l'exploitation du site Internet à un adjoint. Dans ce cas remplir et
   signer le formulaire de délégation (Cf Formulaire de délégation joint au dossier) prévu à cet effet.
 
@@ -43,4 +43,4 @@ Description des conditions d'installation de l'officine (article R5125-9 du CSP)
 
 - Le plan coté de la pharmacie, précisant l'emplacement des différentes activités de l'officine
   doit être fourni.
-- Indiquez clairement quels sont les locaux et équipements affectés aux différentes étape.
+- Indiquez clairement quels sont les locaux et équipements affectés aux différentes étapes.
