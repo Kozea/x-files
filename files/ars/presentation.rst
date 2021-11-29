@@ -33,7 +33,7 @@ Qui sommes-nous ?
 -----------------
 
 Raison sociale
-  {{ client.title|safe }}
+  {{ client.social|safe }}
 
 Activité
   Commerce de détail de produits pharmaceutiques en magasin spécialisé (Code APE 4773 Z)
