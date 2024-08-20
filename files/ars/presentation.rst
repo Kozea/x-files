@@ -120,8 +120,9 @@ Prestataires techniques
 | Société KOZEA S.A.R.L.
 | Dénomination commerciale : **Pharminfo.fr**
 | SARL au capital de 33 000 €
-| 107 boulevard de Stalingrad
-| 69100 Villeurbanne
+| 75 Rue de la République
+| BP 2433
+| 69216 Lyon Centre PPDC
 | RCS Lyon B 508 023 694
 | SIRET : 50802369400021
 | N° TVA intracommunautaire : FR508023694
