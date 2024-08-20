@@ -25,8 +25,9 @@ Régionale de Santé compétente.
 
   | Pharminfo.fr
   | Société Kozea
-  | 107 boulevard de Stalingrad
-  | 69100 Villeurbanne
+  | 75 Rue de la République
+  | BP 2433
+  | 69216 Lyon Centre PPDC
 
 Pour activer le terminal de paiement virtuel de votre site, vous devez demander
 un **numéro de VAD** (Vente À Distance) auprès de votre banque. Normalement ce
