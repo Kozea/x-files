@@ -124,7 +124,7 @@ Prestataires techniques
 | BP 2433
 | 69216 Lyon Centre PPDC
 | RCS Lyon B 508 023 694
-| SIRET : 50802369400021
+| SIREN : 508023694
 | N° TVA intracommunautaire : FR508023694
 | Site Internet : http://kozea.fr/
 
