@@ -173,7 +173,7 @@ Conformément à la loi n° 78-17 du 6 janvier 1978 relative à l’Informatique
 8.2 Droit d’accès, de modification, de rectification et de suppression des données
 ..................................................................................
 
-Conformément à l’article 39 de la loi de 6 janvier 1978, les Clients Pharmaciens disposent d’un droit d’accès, de modification, de rectification et de suppression des données les concernant. Ce droit peut être exercé auprès de Pharminfo.fr par voie postale à l’adresse suivante : 107 Boulevard de Stalingrad, 69100 Villeurbanne, France ou par courriel en écrivant à contact@pharminfo.fr.
+Conformément à l’article 39 de la loi de 6 janvier 1978, les Clients Pharmaciens disposent d’un droit d’accès, de modification, de rectification et de suppression des données les concernant. Ce droit peut être exercé auprès de Pharminfo.fr par voie postale à l’adresse suivante : 75 Rue de la République, BP 2433, 69216 Lyon Centre PPDC, France ou par courriel en écrivant à contact@pharminfo.fr.
 
 
 8.3 Hébergement de données de santé

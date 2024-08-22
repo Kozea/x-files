@@ -290,8 +290,8 @@ Médecin a fait l’objet d’une déclaration auprès de la CNIL.
 Conformément à l’article 39 de la loi de 6 janvier 1978, le Médecin dispose
 d’un droit d’accès, de modification, de rectification et de suppression des
 Données le concernant. Ce droit peut être exercé auprès de Medsite.fr par voie
-postale à l’adresse suivante : 107 boulevard de Stalingrad, 69100 Villeurbanne, 
-France ou par email en écrivant à contact@medsite.fr.
+postale à l’adresse suivante : 75 Rue de la République - BP 2433 - 69216 Lyon
+Centre PPDC - France ou par email en écrivant à contact@medsite.fr.
 
 8.3 Hébergement de données de santé
 ...................................
